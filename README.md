@@ -1,4 +1,4 @@
-#bienvenidos a mi Proyecto final les presento una mini explicacion de lo que acabe de utilizar
+Bienvenidos a mi Proyecto final les presento una mini explicacion de lo que acabe de utilizar
 # Sistema de Gestión de Ventas
 
 Este proyecto es una aplicación de escritorio desarrollada en **Java Swing** con **MySQL**, que permite:
