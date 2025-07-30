@@ -1,3 +1,4 @@
+#bienvenidos a mi Proyecto final les presento una mini explicacion de lo que acabe de utilizar
 # Sistema de Gestión de Ventas
 
 Este proyecto es una aplicación de escritorio desarrollada en **Java Swing** con **MySQL**, que permite:
@@ -8,17 +9,13 @@ Este proyecto es una aplicación de escritorio desarrollada en **Java Swing** co
 ✅ Conexión a base de datos con JDBC  
 
 ## 🚀 Tecnologías usadas
-- Java (POO)
+- Java 
 - MySQL
-- JDBC
 - IntelliJ IDEA
 
 ## 📦 Cómo ejecutar
-1. Clonar el repositorio
-2. Importar el proyecto en IntelliJ
-3. Configurar la conexión en `ConnectionDB.java`
-4. Ejecutar `Login.java`
-5. Usuario de prueba: **admin / 1234**
+1. Importar el proyecto en IntelliJ
+2. Configurar la conexión en `ConnectionDB.java`
+3. Ejecutar `Login.java`
+4. Usuario de prueba: **admin / 1234**
 
-## 📸 Capturas
-_Aquí puedes agregar imágenes del sistema_
